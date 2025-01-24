@@ -1,0 +1,41 @@
+DARRELL DZKTFGZB 08/17/2023 03:27:01 AM -- Application offers inactive by default
+
+https://republicfinance--uat.sandbox.lightning.force.com/lightning/r/RF_Application__c/a1W76000002Ck4oEAC/view?ws=%2Flightning%2Fr%2FAccount%2F0017600000bHKC2AAO%2Fview
+
+DANA NNBWDWGRBBR 08/16/2023 03:02:41 AM -- Complete status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Column T( Renewal Application)
+2) Need each income per applicant.
+3) Row 17 & 24 Column L ( Need to add asset type- Blackbook or NADA)
+4) Need to remove i and need to add in K&L
+5) In column U if there is Motaor vehicle or Auto promo then at least 1 of the offer need to be auto secured other wise we cannot close loan.
+6) If A&H or IUI needs employment income and should not have only Fixed income only.
+7) Pre-qual is applicable for only new customers.
+counter approval
+
+
+
+
